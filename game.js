@@ -1,5 +1,3 @@
-// Non-Transitive Dice Game in Node.js
-
 const crypto = require("crypto");
 const prompt = require("prompt-sync")();
 
